@@ -1,1 +1,2 @@
 # Machine_learning_module4
+## The purpose of this project is to build a neural network that will predict the number of bike rentals for a given day and hour for the WelcomeBike Bike Rentals Washington DC branch. In this report, we also aim to answer important stakeholder questions pertaining to the model creation, effectiveness of the model, the reasoning behind the different parameters used, and the biggest effect of certain features on revenue.
